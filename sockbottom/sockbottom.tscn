@@ -201,9 +201,8 @@ script = ExtResource("1_2gvij")
 position = Vector2(-299, -267)
 scale = Vector2(1.5194824, 1.6631774)
 sprite_frames = SubResource("SpriteFrames_mxncf")
-animation = &"walk"
+animation = &"attack"
 autoplay = "idle"
-frame_progress = 0.8099052
 centered = false
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=773469618]
