@@ -388,7 +388,7 @@ size = Vector2(318, 250.5)
 size = Vector2(283, 45)
 
 [node name="Area2D" type="Area2D" unique_id=1663760223]
-position = Vector2(443, 606)
+position = Vector2(444, 606)
 
 [node name="CharacterBody2D" parent="." unique_id=1822246507 instance=ExtResource("1_f3sb7")]
 position = Vector2(-191, -119)
